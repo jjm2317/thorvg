@@ -44,6 +44,7 @@ source_file = [
     'Masking.cpp',
     'MaskingMethods.cpp',
     'MultiCanvas.cpp',
+    'MyExample.cpp',
     'Opacity.cpp',
     'Path.cpp',
     'Particles.cpp',
